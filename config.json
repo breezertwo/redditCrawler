@@ -1,0 +1,10 @@
+{
+  "mongoDB": {
+    "baseUrl": "mongodb://localhost:27017"
+  },
+  "redditAPI": {
+    "client_id": "xxx",
+    "client_secret": "xxx",
+    "user_agent": "xxx"
+  }
+}
